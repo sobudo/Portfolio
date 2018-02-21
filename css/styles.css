@@ -1,11 +1,31 @@
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    width: 100%;
+}
+
+div.a {
+    font-size: 300%;
+}
+
 h1 {
   text-align: center;
 }
-.intro{
+
+p.intro{
   text-align: center;
+  font-size: 48
 }
+
  h2 {
   text-align:center;
+
  h3 {
    text-align: center;
  }
@@ -21,10 +41,7 @@ p {
 li {
   font-family: sans-serif;
 }
-.container {
-  margin-left: 20%;
-  margin-right: 10%;
-}
+
 img.displayed {
   background-color: black;
 }
