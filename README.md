@@ -1,29 +1,22 @@
-Portfolio
-
+# Portfolio
 Portfolio 2018 can be referred to as my personal showroom, a space where i get to showcase websites built during my time at coding bootcamp.
 
-Contributors
-
+### Contributors
 Contributors to the projects include Sandra Obudo, Zamzam and Mark.
 
-Description
-
+## Description
 This portfolio shows websites under various stages of development with various forms of CSS and html code incorporated into them at different stages as part of the learning process.
 
-Setup/Installation Requirements
-
+## Setup/Installation Requirements
 Installation is pretty straight forward, copy paste and you're good to go.
 
-Known Bugs
-
+## Known Bugs
 No known bugs to date however feel free to email me on sobudo@gmail.com should you come across any.
 
-Technologies Used
-
+## Technologies Used
 The projects herein have been created using html, CSS and Bootstrap.
 
-MIT License
-
+### MIT License
 Copyright (c) [2018] [Sandra Obudo]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
