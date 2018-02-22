@@ -33,6 +33,7 @@ p.intro{
  }
 
 }
+
 IMG.displayed {
     display: block;
     margin-left: auto;
@@ -42,7 +43,11 @@ IMG.displayed {
     border-color: light blue;
 }
 
-  }
+IMG.spain {
+    border-style: outset;
+    border-width: 7px;
+    border-color: light blue;
+}
 
 p {
   font-family: sans-serif;
