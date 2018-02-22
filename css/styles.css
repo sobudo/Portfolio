@@ -13,7 +13,7 @@
 div.a {
     font-size: 300%;
     font-style: italic;
-    font-family: cursive;
+    font-family:sans-serif;
 }
 
 h1 {
@@ -27,14 +27,13 @@ p.intro{
 
  h2 {
   text-align:center;
+}
 
  h3 {
    text-align: center;
  }
 
-}
-
-IMG.displayed {
+img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -43,7 +42,7 @@ IMG.displayed {
     border-color: light blue;
 }
 
-IMG.spain {
+img.spain {
     border-style: outset;
     border-width: 7px;
     border-color: light blue;
