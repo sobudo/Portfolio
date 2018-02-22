@@ -31,15 +31,23 @@ p.intro{
  h3 {
    text-align: center;
  }
+
 }
 IMG.displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    border-style: outset;
+    border-width: 7px;
+    border-color: light blue;
+}
+
   }
+
 p {
   font-family: sans-serif;
 }
+
 li {
   font-family: sans-serif;
 }
