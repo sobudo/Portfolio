@@ -1,9 +1,9 @@
 
-.thumbnail {
+.Sandra {
     position: relative;
 }
 
-.caption {
+.intro {
     position: absolute;
     top: 10%;
     left: 0;
@@ -13,6 +13,7 @@
 div.a {
     font-size: 300%;
     font-style: italic;
+    font-family: cursive;
 }
 
 h1 {
