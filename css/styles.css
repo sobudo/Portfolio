@@ -1,51 +1,50 @@
-
 .Sandra {
-    position: relative;
+  position: relative;
 }
 
 .intro {
-    position: absolute;
-    top: 10%;
-    left: 0;
-    width: 100%;
+  position: absolute;
+  top: 10%;
+  left: 0;
+  width: 100%;
 }
 
 div.a {
-    font-size: 300%;
-    font-style: italic;
-    font-family:sans-serif;
+  font-size: 300%;
+  font-style: italic;
+  font-family: ;
 }
 
 h1 {
   text-align: center;
 }
 
-p.intro{
+p.intro {
   text-align: center;
   font-size: 48
 }
 
- h2 {
-  text-align:center;
+h2 {
+  text-align: center;
 }
 
- h3 {
-   text-align: center;
- }
+h3 {
+  text-align: center;
+}
 
 img.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: outset;
-    border-width: 7px;
-    border-color: light blue;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: outset;
+  border-width: 7px;
+  border-color: light blue;
 }
 
 img.spain {
-    border-style: outset;
-    border-width: 7px;
-    border-color: light blue;
+  border-style: outset;
+  border-width: 7px;
+  border-color: light blue;
 }
 
 p {
